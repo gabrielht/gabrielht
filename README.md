@@ -17,7 +17,7 @@
 <br />
 <br />
 
-Meu nome é Gabriel Henrique, sou um desenvolvedor fullstack na [@arboplatform](https://github.com/arboplatform) 🚀 , sou um estudante de Engenharia de Software - SENAI. Apaixonado por jogos e animes.
+Meu nome é Gabriel Henrique, sou um desenvolvedor fullstack na [@arboplatform](https://github.com/arboplatform) 🚀, sou um estudante de Engenharia de Software - SENAI. Apaixonado por jogos e animes.
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/ba/d9/2d/bad92d9fae38ef1cddcc069ed3adfba4.gif" />
   
