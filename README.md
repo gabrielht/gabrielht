@@ -9,6 +9,9 @@
 <a href="https://www.twitch.tv/gabrielhtx">
   <img align="left" alt="Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />
 </a>
+<a href="https://myanimelist.net/animelist/GabrielHTX">
+  <img align="left" alt="Animelist" width="22px" src="https://github.com/gabrielht/gabrielht/blob/master/mal.jpg?raw=true" />
+</a>
 
 
 <br />
@@ -19,7 +22,7 @@ Meu nome é Gabriel Henrique, sou um desenvolvedor fullstack na [@arboplatform](
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/ba/d9/2d/bad92d9fae38ef1cddcc069ed3adfba4.gif" />
   
 **Pessoais:**
-
+- 
 - 💻 Atualmente trabalhando de casa;
 - 🌱 Atualmente aprendendo React Native; 
 - 👯 Aceito freelance de umas landing page;
