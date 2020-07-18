@@ -20,7 +20,7 @@
 <br />
 <br />
 
-Meu nome é Gabriel Henrique, sou um desenvolvedor fullstack na [@arboplatform](https://github.com/arboplatform) 🚀, sou um estudante de Engenharia de Software - SENAI. Apaixonado por jogos e animes.
+Meu nome é Gabriel Henrique, sou um desenvolvedor fullstack na [@arboplatform](https://github.com/arboplatform) 🚀, sou estudante de Engenharia de Software - SENAI. Apaixonado por jogos e animes.
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/ba/d9/2d/bad92d9fae38ef1cddcc069ed3adfba4.gif" />
   
@@ -32,5 +32,5 @@ Meu nome é Gabriel Henrique, sou um desenvolvedor fullstack na [@arboplatform](
 - 📫 Meu E-mail: xgabrielhenrique@live.com;
 
 **Linguagens e ferramentas:**
- NodeJS, Javascript, Loopback, AngularJS, React, React Native e PostgreSQL são coisas que vejo diariamente
+ NodeJS, Javascript, Loopback, AngularJS, React, React Native e PostgreSQL são coisas que vejo diariamente.
 ###
