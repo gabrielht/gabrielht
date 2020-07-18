@@ -12,6 +12,9 @@
 <a href="https://myanimelist.net/animelist/GabrielHTX">
   <img align="left" alt="Animelist" width="22px" src="https://github.com/gabrielht/gabrielht/blob/master/mal.jpg?raw=true" />
 </a>
+<a href="https://steamcommunity.com/id/SWAT3X/">
+  <img align="left" alt="Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />
+</a>
 
 
 <br />
