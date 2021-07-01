@@ -26,11 +26,11 @@ Meu nome é Gabriel Henrique, sou um desenvolvedor fullstack na [@arboplatform](
   
 **Pessoais:**
 - 
-- 💻 Atualmente trabalhando de casa;
-- 🌱 Atualmente aprendendo React Native; 
-- 👯 Aceito freelance de umas landing page;
-- 📫 Meu E-mail: xgabrielhenrique@live.com;
+- 💻 Meio remoto, meio presencial;
+- 🌱 Aprendendo TDD em Android Studio; 
+- 👯 Fazendo freelas, por favor chega;
+- 📫 Meu e-mail: xgabrielhenrique@live.com;
 
 **Linguagens e ferramentas:**
- NodeJS, Javascript, Loopback, AngularJS, React, React Native e PostgreSQL são coisas que vejo diariamente.
+ Javascript, NodeJS, Loopback, AngularJS, React, React Native e PostgreSQL são coisas que vejo diariamente.
 ###
