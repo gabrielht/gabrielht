@@ -1,36 +1,60 @@
-### Eai, sou o Gabriel
+### Eai, eu sou o Gabriel 👋
 
-<a href="https://twitter.com/GabrielHTChan">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/gabriel-henrique-tsubamoto-aa397a13b/">
-  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.twitch.tv/gabrielhtx">
-  <img align="left" alt="Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />
-</a>
-<a href="https://myanimelist.net/animelist/GabrielHTX">
-  <img align="left" alt="Animelist" width="22px" src="https://github.com/gabrielht/gabrielht/blob/master/mal.jpg?raw=true" />
-</a>
-<a href="https://steamcommunity.com/id/SWAT3X/">
-  <img align="left" alt="Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />
-</a>
+Sou desenvolvedor **Fullstack** com experiência em produtos B2B e B2C no mercado imobiliário.  
+Atuei na construção e evolução de soluções em produção, APIs, integrações estratégicas e aplicações com alto volume de usuários.
 
+Atualmente estou **buscando novas oportunidades** 🚀
 
-<br />
-<br />
+---
 
-Meu nome é Gabriel Henrique, sou um desenvolvedor fullstack na [@arboplatform](https://github.com/arboplatform) 🚀, sou estudante de Engenharia de Software - SENAI. Apaixonado por jogos e animes.
+### 🧠 Sobre mim
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/ba/d9/2d/bad92d9fae38ef1cddcc069ed3adfba4.gif" />
-  
-**Pessoais:**
-- 
-- 💻 Meio remoto, meio presencial;
-- 🌱 Aprendendo TDD em Android Studio; 
-- 👯 Fazendo freelas, por favor chega;
-- 📫 Meu e-mail: xgabrielhenrique@live.com;
+- 💻 Experiência com arquitetura frontend e backend
+- 📱 Desenvolvimento mobile com React Native (Expo)
+- 🔎 Foco em performance, SEO e redução de custos
+- 🧩 Experiência com integrações (Facebook Leads, Webhooks, automações)
+- 🛠️ Monitoramento e debugging com Sentry
+- 🎓 Engenharia de Software - SENAI
+- 🎮 Gamer e apreciador profissional de animes
 
-**Linguagens e ferramentas:**
- Javascript, NodeJS, Loopback, AngularJS, React, React Native e PostgreSQL são coisas que vejo diariamente.
-###
+---
+
+### 🛠️ Stack
+
+**Frontend**
+- React
+- Next.js
+- AngularJS
+- Angular 8
+- React Native (Expo)
+
+**Backend**
+- Node.js
+- Express
+- Loopback 2
+- API Routes (Next.js)
+- Webhooks / BFF
+
+**Banco de Dados**
+- PostgreSQL
+
+**DevOps & Ferramentas**
+- Git
+- Github Actions
+- Buddy Pipelines
+- Jira
+- Sentry
+- Semrush
+
+---
+
+### 📦 Projetos públicos
+
+Infelizmente nenhum repositório público pra você encontrar kkkkk 😭  
+A maior parte da minha experiência foi construída em ambientes privados e produtos em produção.
+
+Mas se quiser conversar sobre arquitetura, decisões técnicas ou desafios que enfrentei, fico feliz em compartilhar.
+
+---
+
+📫 Contato: gabriel.htsubamoto@gmail.com
