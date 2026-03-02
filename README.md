@@ -1,7 +1,7 @@
 ### Eai, eu sou o Gabriel 👋
 
 Sou desenvolvedor **Fullstack** com experiência em produtos B2B e B2C no mercado imobiliário.  
-Atuei na construção e evolução de soluções em produção, APIs, integrações estratégicas e aplicações com alto volume de usuários. na @superlogica
+Atuei na construção e evolução de soluções em produção, APIs, integrações estratégicas e aplicações com alto volume de usuários.
 
 Atualmente estou **buscando novas oportunidades** 🚀
 
